@@ -1,12 +1,13 @@
-# React + Vite
+CleanUI Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive dashboard UI built with React, Vite, and Tailwind CSS. Designed as a portfolio project to showcase frontend skills, CleanUI features reusable components, data visualization, and a clean layout — perfect for internal tools or admin panels.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ Features-
+- ⚛️ React 19 + Vite for fast development.
+- 🎨 Tailwind CSS styling with design tokens.
+- 📊 Dashboard stats (Users, Sales, Visitors, Orders).
+- 📈 Sales chart using Recharts.
+- 🧩 Reusable components: `Card`, `Button`, `Topbar`, `RecentActivity`.
+- 🔀 React Router setup with `Dashboard` and `Playground` pages.
+- ✅ Responsive design (mobile + desktop).
+- 💻 Ready to deploy on Vercel or Netlify.
